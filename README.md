@@ -1,7 +1,7 @@
 sailAlignWrappers
 =================
 
-Wrappers around the sailAlign text-to-speech alignment algorithm to use it on text with punctuation.
+Wrappers around the [sailAlign](https://github.com/nassosoassos/sail_align) text-to-speech alignment algorithm to use it on text with punctuation.
 
 
 Installation
